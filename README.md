@@ -27,7 +27,7 @@ I bring strong operational experience across:
 - Government-scale environments  
 - Healthcare enterprise systems  
 
-Currently focused on **AWS DevOps opportunities within Riyadh’s financial sector**, supporting organizations modernizing mission-critical platforms with strong governance and resilience.
+Currently focused on **AWS DevOps opportunities within GCC financial sector**, supporting organizations modernizing mission-critical platforms with strong governance and resilience.
 
 ---
 
