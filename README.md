@@ -42,10 +42,7 @@ Currently focused on **AWS DevOps opportunities within GCC financial sector**, s
 
 ---
 
-## 📌 Featured Projects (In Progress)
-
-🚧 I am actively building a portfolio of production-style DevOps labs, including:
-
+## 📌 Featured Projects (In Progress) 🚧 
 - **GitOps-driven Kubernetes deployments on AWS**
 - **MySQL InnoDB Cluster on Kubernetes**
 - **Monitoring & alerting dashboards for platform reliability**
