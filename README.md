@@ -33,7 +33,7 @@ Currently focused on **AWS DevOps opportunities within GCC financial sector**, s
 
 ## 🛠 Tech Stack
 
-**Cloud:** AWS (EKS, EC2, IAM, VPC, RDS, S3)  
+**Cloud:** AWS ( EC2, IAM, VPC, RDS, S3)  
 **Containers:** Docker, Kubernetes  
 **IaC:** Terraform, CloudFormation, Ansible  
 **CI/CD:** ArgoCD, GitHub Actions, GitLab CI, Jenkins  
