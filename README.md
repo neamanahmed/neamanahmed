@@ -11,7 +11,7 @@ With **8+ years in DevOps & Cloud Engineering** and **15+ years in enterprise IT
 I design and operate modern cloud-native systems with an emphasis on:
 
 - **AWS multi-account & multi-region architecture**
-- **Kubernetes (EKS) platform engineering**
+- **Kubernetes  platform engineering**
 - **Infrastructure as Code (Terraform, CloudFormation, Ansible)**
 - **GitOps & CI/CD automation (ArgoCD, GitHub Actions, GitLab CI, Jenkins)**
 - **Observability & Reliability Engineering (Prometheus, Grafana, ELK, OpenTelemetry)**
