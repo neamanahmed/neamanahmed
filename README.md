@@ -27,17 +27,22 @@ I design and operate modern cloud-native systems with an emphasis on:
 
 I bring strong operational experience across:
 
-- Banking & Financial Services  
-- Government-scale environments  
-- Healthcare enterprise systems  
+ •**Cloud modernization & regulated hybrid cloud platforms**
+ •**Kubernetes & platform engineering**
+ •**Oracle and MySQL database modernization**
+ •**Enterprise automation & operational resilience**
+ •**AWS governance, security automation & compliance-by-design architectures**
+ •**Zero-downtime migration strategies using Oracle GoldenGate**
+ •**Infrastructure resilience for financial-grade platforms**
 
-Currently focused on **AWS DevOps opportunities within GCC financial sector**, supporting organizations modernizing mission-critical platforms with strong governance and resilience.
+ I enjoy working at the intersection of enterprise infrastructure, cloud transformation, automation, and operational reliability — especially within environments where scale, resilience, governance, and uptime are critical.
+Certifications include AWS DevOps Engineer Professional, AWS SysOps Administrator, AWS Solutions Architect Associate, Oracle Database@Azure Specialist, RHCE/RHCSA, and Certified Kubernetes Administrator (CKA).
 
 ---
 
 ## 🛠 Tech Stack
 
-**Cloud:** AWS ( EC2, IAM, VPC, RDS, S3)  
+**Cloud:** AWS OCI Azure 
 **Containers:** Docker, Kubernetes  
 **IaC:** Terraform, CloudFormation, Ansible  
 **CI/CD:** ArgoCD, GitHub Actions, GitLab CI, Jenkins  
@@ -47,7 +52,7 @@ Currently focused on **AWS DevOps opportunities within GCC financial sector**, s
 ---
 
 ## 📌 Featured Projects (In Progress) 🚧 
-- **GitOps-driven Kubernetes deployments on AWS**
+- **GitOps-driven Kubern  etes deployments on AWS**
 - **MySQL InnoDB Cluster on Kubernetes**
 - **Monitoring & alerting dashboards for platform reliability**
 - **Self-healing infrastructure and operational runbooks**
