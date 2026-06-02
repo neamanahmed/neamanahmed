@@ -75,11 +75,11 @@ DevSecOps · Compliance Automation · Least Privilege · Operational Governance
 
 I believe modern infrastructure engineering is built on:
 
-✅ Automation over repetitive manual operations
-✅ Reliability and resilience over unnecessary complexity
-✅ Observability before incidents occur
-✅ Security integrated into delivery pipelines
-✅ Systems designed for recovery, scale, and operational continuity
+✅ **Automation over repetitive manual operations**
+✅ **Reliability and resilience over unnecessary complexity**
+✅ **Observability before incidents occur**
+✅ **Security integrated into delivery pipelines**
+✅ **Systems designed for recovery, scale, and operational continuity**
 
 ---
 
