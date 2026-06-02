@@ -10,12 +10,14 @@ With **8+ years in DevOps & Cloud Engineering** and **15+ years in enterprise IT
 
 I design and operate modern cloud-native systems with an emphasis on:
 
-- **AWS multi-account & multi-region architecture**
-- **Kubernetes  platform engineering**
-- **Infrastructure as Code (Terraform, CloudFormation, Ansible)**
-- **GitOps & CI/CD automation (ArgoCD, GitHub Actions, GitLab CI, Jenkins)**
-- **Observability & Reliability Engineering (Prometheus, Grafana, ELK, OpenTelemetry)**
-- **Disaster Recovery, automated remediation, and secure-by-design delivery**
+- ** Hybrid Cloud Architecture (AWS · Azure · OCI)**
+- ** Kubernetes & Platform Engineering**
+- ** Operational Resilience & HA/DR**
+- ** Oracle Exadata · Data Guard · GoldenGate**
+- ** Infrastructure Automation & Governance**
+- ** Regulated CI/CD Platforms**
+- ** Enterprise Observability & Compliance**
+
 
 ---
 
