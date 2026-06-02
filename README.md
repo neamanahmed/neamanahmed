@@ -2,7 +2,7 @@
 
 🚀 **Enterprise Cloud & Infrastructure Architect focused on operational resilience, hybrid cloud governance, Kubernetes platforms, enterprise automation, and mission-critical modernization initiatives.**
 
-With **8+ years in DevOps & Cloud Engineering** and **20+ years across enterprise infrastructure and IT operations**, I focus on designing and operating production-grade platforms where reliability, security, compliance, and operational continuity are critical.
+With **8+ years in DevOps & Cloud Engineering** and **15+ years across enterprise infrastructure and IT operations**, I focus on designing and operating production-grade platforms where reliability, security, compliance, and operational continuity are critical.
 
 ---
 
