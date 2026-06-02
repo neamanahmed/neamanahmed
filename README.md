@@ -10,13 +10,15 @@ With **8+ years in DevOps & Cloud Engineering** and **15+ years in enterprise IT
 
 I design and operate modern cloud-native systems with an emphasis on:
 
-- ** Hybrid Cloud Architecture (AWS · Azure · OCI)**
-- ** Kubernetes & Platform Engineering**
-- ** Operational Resilience & HA/DR**
-- ** Oracle Exadata · Data Guard · GoldenGate**
-- ** Infrastructure Automation & Governance**
-- ** Regulated CI/CD Platforms**
-- ** Enterprise Observability & Compliance**
+- **Hybrid Cloud Architecture (AWS · Azure · OCI)**
+- **Kubernetes & Platform Engineering**
+- **Operational Resilience & HA/DR**
+- **Oracle Exadata · Data Guard · GoldenGate**
+- **Infrastructure Automation & Governance**
+- **Regulated CI/CD Platforms**
+- **Enterprise Observability & Compliance**
+~
+
 
 
 ---
